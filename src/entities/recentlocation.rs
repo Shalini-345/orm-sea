@@ -1,5 +1,5 @@
 // Recent Locations Entity
-// Add this line for each entity
+
 use sea_orm::entity::prelude::*;
 use sea_orm::DeriveRelation; 
 
